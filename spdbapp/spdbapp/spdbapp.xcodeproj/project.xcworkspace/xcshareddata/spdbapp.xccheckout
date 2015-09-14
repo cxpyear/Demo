@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F58AE6B7-8D6D-4FF8-B9C6-3A6FF4B4A54B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>spdbapp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2B2E8DEB63F38532D20D2AD4A8B0B3AD48D7CEDE</key>
+		<string>https://github.com/cxpyear/spdbapp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>spdbapp/spdbapp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2B2E8DEB63F38532D20D2AD4A8B0B3AD48D7CEDE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cxpyear/spdbapp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2B2E8DEB63F38532D20D2AD4A8B0B3AD48D7CEDE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2B2E8DEB63F38532D20D2AD4A8B0B3AD48D7CEDE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>spdbapp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
